@@ -1,1 +1,1 @@
-A test repository.
+A test repository. Doesn't do much. May explode if opened.
